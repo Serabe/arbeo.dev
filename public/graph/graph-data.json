@@ -1,6 +1,22 @@
 {
   "nodes": [
     {
+      "id": "better-tests-zero-drama-smarter-liveisolatedcomponent-patterns",
+      "type": "post",
+      "title": "Better Tests, Zero Drama: Smarter LiveIsolatedComponent Patterns",
+      "slug": "better-tests-zero-drama-smarter-liveisolatedcomponent-patterns",
+      "date": "2025-01-08T00:00:00.000Z",
+      "connections": 0
+    },
+    {
+      "id": "deep-dive-into-testing-component-slots-with-liveisolatedcomponent",
+      "type": "post",
+      "title": "Deep Dive into Testing Component Slots with LiveIsolatedComponent",
+      "slug": "deep-dive-into-testing-component-slots-with-liveisolatedcomponent",
+      "date": "2024-11-19T00:00:00.000Z",
+      "connections": 0
+    },
+    {
       "id": "formatting-reference",
       "type": "post",
       "title": "Formatting Reference",
@@ -15,6 +31,78 @@
       "slug": "getting-started",
       "date": "2025-09-06T00:00:00.000Z",
       "connections": 6
+    },
+    {
+      "id": "id-20",
+      "type": "post",
+      "title": "Contentless Slots in Phoenix LiveView",
+      "slug": "id-20",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-23",
+      "type": "post",
+      "title": "Preprocessing slots in Phoenix LiveView: A way to simplify complex components",
+      "slug": "id-23",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-26",
+      "type": "post",
+      "title": "The default slot in Phoenix LiveView",
+      "slug": "id-26",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-34",
+      "type": "post",
+      "title": "Named slots in Phoenix LiveView: an introduction",
+      "slug": "id-34",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-39",
+      "type": "post",
+      "title": "Configuring the mock view in LiveIsolatedComponent",
+      "slug": "id-39",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-41",
+      "type": "post",
+      "title": "Improve your LiveView testing with dom_helpers: the selectors",
+      "slug": "id-41",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-44",
+      "type": "post",
+      "title": "Simple DOM access with dom_helpers",
+      "slug": "id-44",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-46",
+      "type": "post",
+      "title": "Why dom_helpers?",
+      "slug": "id-46",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
+    },
+    {
+      "id": "id-49",
+      "type": "post",
+      "title": "Chunking in Elixir",
+      "slug": "id-49",
+      "date": "2025-10-29T22:04:10.197Z",
+      "connections": 0
     },
     {
       "id": "mermaid-diagrams",
@@ -38,6 +126,30 @@
       "title": "Sample Folder-Based Post",
       "slug": "sample-folder-based-post",
       "date": "2025-09-09T00:00:00.000Z",
+      "connections": 0
+    },
+    {
+      "id": "solution-to-first-challenge",
+      "type": "post",
+      "title": "Solution to First Challenge",
+      "slug": "solution-to-first-challenge",
+      "date": "2024-10-31T00:00:00.000Z",
+      "connections": 0
+    },
+    {
+      "id": "testing-messages-with-liveisolatedcomponent",
+      "type": "post",
+      "title": "Testing messages with LiveIsolatedComponent",
+      "slug": "testing-messages-with-liveisolatedcomponent",
+      "date": "2025-01-02T00:00:00.000Z",
+      "connections": 0
+    },
+    {
+      "id": "testing-your-first-component-in-isolation-with-live-isolated-component",
+      "type": "post",
+      "title": "Effortless Component Testing your first component in isolation with LiveIsolatedComponent",
+      "slug": "testing-your-first-component-in-isolation-with-live-isolated-component",
+      "date": "2024-10-28T00:00:00.000Z",
       "connections": 0
     }
   ],
@@ -99,10 +211,10 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-28T03:51:29.774Z",
-    "totalPosts": 5,
+    "generated": "2025-10-29T22:04:10.197Z",
+    "totalPosts": 19,
     "totalConnections": 11,
     "maxNodesApplied": false,
-    "originalNodeCount": 5
+    "originalNodeCount": 19
   }
 }
